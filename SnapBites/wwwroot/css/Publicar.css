@@ -1,0 +1,33 @@
+
+
+body {
+  font-family: 'Space Grotesk', sans-serif;
+  margin: 0;
+  padding: 0;
+  min-width: 300px;
+} 
+
+.cor-fundo{
+  background-color: #fff;
+}
+
+.cor1 {
+  background-color: #1B6607;
+}
+
+.perfil{
+  margin-top: 80px;
+}
+
+
+footer {
+  background-color: #333;
+  color: #fff;
+  padding: 20px;
+  text-align: center;
+  bottom: 0;
+}
+
+.image-publi{
+  margin-right: -50px;
+}
